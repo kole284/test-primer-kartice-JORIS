@@ -37,7 +37,7 @@ function App() {
       .then(updatedBook => {
         setKnjige(knjige.map(k => k.id === id ? updatedBook : k));
       })
-      .catch(err => alert(err.message));
+      .catch(err => alert(err.message));{/*komentarar*/}
   };
 
   return (
