@@ -24,7 +24,8 @@ function App() {
     })
       .then(res => res.json())
       .then(newBook => setKnjige([...knjige, newBook]));
-  };
+  };{/*komentarar dodajKnjigu
+    */}
 
   const handleBuyBook = (id) => {
     fetch(`http://localhost:5240/api/knjige/${id}/kupi`, {
