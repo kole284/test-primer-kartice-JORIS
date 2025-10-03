@@ -7,6 +7,7 @@ import './App.css';
 function App() {
   const [knjige, setKnjige] = useState([]);
   const [showPopup, setShowPopup] = useState(false);
+  {/*komentar za main*/ }
 
 
   {/*Ovo se koristi za hvatanje podataka i ucitavanje podataka u kartice*/}
