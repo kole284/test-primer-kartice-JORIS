@@ -143,3 +143,4 @@
 /home/kole/Documents/JORIS Vezbanje/Vezbanjac/2/backend/obj/Debug/net8.0/backend.genruntimeconfig.cache
 /home/kole/Documents/JORIS Vezbanje/Vezbanjac/2/backend/obj/Debug/net8.0/ref/backend.dll
 /home/kole/Documents/JORIS Vezbanje/Vezbanjac/2/backend/bin/Debug/net8.0/backend.staticwebassets.runtime.json
+/home/kole/Documents/JORIS Vezbanje/Vezbanjac/2/backend/obj/Debug/net8.0/backend.sourcelink.json
